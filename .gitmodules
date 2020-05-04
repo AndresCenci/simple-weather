@@ -1,0 +1,6 @@
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/AndresCenci/weather-app
+[submodule "weather-api"]
+	path = weather-api
+	url = https://github.com/AndresCenci/weather-api
